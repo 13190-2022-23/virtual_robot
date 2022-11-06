@@ -13,8 +13,8 @@ import org.firstinspires.ftc.robotcore.external.navigation.*;
  * Example OpMode. Demonstrates use of gyro, color sensor, encoders, and telemetry.
  *
  */
-@TeleOp(name = "mecanum bot demo", group = "MecanumBot")
-public class MecanumDemo extends LinearOpMode {
+@TeleOp(name = "RobotCentricMecanumTeleOp", group = "MecanumBot")
+public class RobotCentricMecanumTeleOp extends LinearOpMode {
 
     public void runOpMode(){
         DcMotor m1 = hardwareMap.dcMotor.get("back_left_motor");

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Controller/Controller.iml" filepath="$PROJECT_DIR$/Controller/Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13190PowerPlay8.0/FtcRobotController/FtcRobotController.iml" filepath="$PROJECT_DIR$/../13190PowerPlay8.0/FtcRobotController/FtcRobotController.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamCode/TeamCode.iml" filepath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13190PowerPlay8.0/TeamCode/TeamCode1.iml" filepath="$PROJECT_DIR$/../13190PowerPlay8.0/TeamCode/TeamCode1.iml" />
       <module fileurl="file://$PROJECT_DIR$/virtual_robot.iml" filepath="$PROJECT_DIR$/virtual_robot.iml" />
     </modules>
   </component>
